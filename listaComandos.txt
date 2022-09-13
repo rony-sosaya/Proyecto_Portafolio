@@ -1,0 +1,28 @@
+git config --global user.name "rony"
+git config --global user.mail ronysosaya@gmail.com
+//configuración de nombre y correo.
+//para verificar que se configuro de manera correcta el comando es
+git config --list
+// las primeras dos configuraciones solo se utilizan una sola vez
+// para hacer de nuestro proyecto el rpoyecto principal de git
+// primero creamos un archivo llamado README.md dentro de la carpeta Proyecto_Portafolio
+touch README.md //para crear archivo - en mi caso no funciona
+// este archivo es para describir sobre que trata mi proyecto
+// en mi caso en la carpeta Proyecto_Portafolio ingresamos a vista y seleccionamos extenciones de nombre de archivo
+// luego clickderecho seleccionamos nuevo y documento de texto eleminamos todo y colocamos README.md
+// inicializar el proyecto en git
+git init
+//crear carpeta Snake Case 
+proyecto_primer_modulo
+//crear carpeta Camel Case
+proyectoPrimerModulo
+//crear carpeta Pascal Case
+ProyectoPrimerModulo
+// estados de Git 
+1. Modificado
+2. Staged
+3. Commit
+4. Push
+los 3 primeros estados son estados locales en la PC sin conexion a internet
+el último estado es el estado remoto, trabaja con Git hub, Git lab, Git bucket
+// git status te da a conocer los archivos modificados
