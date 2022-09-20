@@ -1,5 +1,5 @@
 git config --global user.name "rony"
-git config --global user.mail ronysosaya@gmail.com
+git config --global user.email ronysosaya@gmail.com
 //configuración de nombre y correo.
 //para verificar que se configuro de manera correcta el comando es
 git config --list
@@ -26,3 +26,6 @@ ProyectoPrimerModulo
 los 3 primeros estados son estados locales en la PC sin conexion a internet
 el último estado es el estado remoto, trabaja con Git hub, Git lab, Git bucket
 // git status te da a conocer los archivos modificados
+//git add . todos los archivos se van al estado de espera
+//git commit -m "descripción del trabajo... ejemplo: inicialización del proyecto portafolio y creación de archivo README" 
+es para guardar el proyecto al finalizarlo completamente.
