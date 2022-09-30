@@ -1,0 +1,12 @@
+.Titulo{
+    align-items: baseline;
+}
+.Contenido{
+    text-align:center;
+}
+.Contenido button{
+    text-align: end;
+}
+.Datos{
+    text-align: center;
+}

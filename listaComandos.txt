@@ -29,3 +29,4 @@ el último estado es el estado remoto, trabaja con Git hub, Git lab, Git bucket
 //git add . todos los archivos se van al estado de espera
 //git commit -m "descripción del trabajo... ejemplo: inicialización del proyecto portafolio y creación de archivo README" 
 es para guardar el proyecto al finalizarlo completamente.
+/code . para iniciar el Proyecto_Portafolio en visual studio
